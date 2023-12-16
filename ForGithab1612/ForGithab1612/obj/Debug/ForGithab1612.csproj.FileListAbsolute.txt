@@ -1,0 +1,16 @@
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\bin\Debug\ForGithab1612.exe.config
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\bin\Debug\ForGithab1612.exe
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\bin\Debug\ForGithab1612.pdb
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.csproj.AssemblyReference.cache
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\MainWindow.g.cs
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\App.g.cs
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612_MarkupCompile.cache
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612_MarkupCompile.lref
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\MainWindow.baml
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.g.resources
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.Properties.Resources.resources
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.csproj.GenerateResource.cache
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.csproj.CoreCompileInputs.cache
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.exe
+C:\Users\kirill\source\repos\ForGithab1612\ForGithab1612\obj\Debug\ForGithab1612.pdb
